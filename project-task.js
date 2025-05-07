@@ -114,7 +114,7 @@ const invalidBookingJSON = `
     "amenities": ["WiFi", "Breakfast", "Parking"] //removed comma
   }
 }
-`;
+//remove semicolon and apostrophe
 
 
 // ============================================
